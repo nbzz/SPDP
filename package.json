@@ -1,5 +1,5 @@
 {
-  "name": "astrolus",
+  "name": "spdp-lapaz",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/alpinejs": "^0.2.1",
+    "@types/alpinejs": "^3.7.1",
+    "alpinejs": "^3.12.0",
     "astro": "^1.1.5"
   },
   "devDependencies": {
